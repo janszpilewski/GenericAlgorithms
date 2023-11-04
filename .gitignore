@@ -1,0 +1,12 @@
+build/
+Build/
+CMakeFiles/
+Makefile/
+Testing/
+.vs/
+CMakeCache.txt
+Makefile
+*.cmake
+CMakeLists.txt.user
+
+

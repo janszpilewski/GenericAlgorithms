@@ -1,4 +1,4 @@
-## Generic Algoritms and Data Structures
+# Generic Algoritms and Data Structures
 
 This is a project providing standalone, platform independent templatized implementations in C++ of common algorithms and data structures.
 The project is handled by CMake and unit tests are organized with CTest.
@@ -13,11 +13,11 @@ gmake test
 
 The project currently contains following implementations:
 
-#### Data structures:
+### Data structures:
 Binary heap  
 Suffix array  
 
-#### Algoritmhs:
+### Algoritmhs:
 Partition Lomuto  
 N-th smallest element  
 Quick sort  
@@ -28,8 +28,8 @@ Upper bound
 Next lexicographic permutation  
 Modular exponent  
 Generate combinations  
-Generate subnets  
+Generate subsets  
 Longest common subsequence  
 Approximative string matching  
-
+Partition range
 
